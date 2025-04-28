@@ -15,6 +15,12 @@ namespace TestClass
         public Form1()
         {
             InitializeComponent();
+            byte byteNum = 10;
+            short shortNum = 10;
+            int intNum = 100;
+            float floatNum = 10.5f;
+            double doubleNum = 10.55d;
+            decimal decimalNum = 10.555m;
         }
     }
 }
